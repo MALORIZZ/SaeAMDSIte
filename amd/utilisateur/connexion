@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>AMD : entreprise T3CH</h1>
+    
+<form action="profil">
+  <label for="fname">Login:</label><br>
+  <input type="text" id="fname" name="fname" value="Julien"><br>
+  <label for="lname">Mot de passe:</label><br>
+  <input type="text" id="lname" name="lname" value="Baste"><br><br>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html> 
